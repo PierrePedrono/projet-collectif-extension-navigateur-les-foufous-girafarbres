@@ -2,7 +2,7 @@
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-HTML-326996.svg)](https://html.spec.whatwg.org/multipage/)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-CSS-326996.svg)](https://www.w3.org/Style/CSS/)
 
-# Projet - "Ping my tab" <img width="32" alt="redlight" src="https://github.com/PierrePedrono/projet-collectif-extension-navigateur-les-foufous-girafarbres/assets/146751236/1c7de2ac-3fb7-4249-a089-9bfce9c10463">
+# Projet - "Ping my tabs" <img width="32" alt="redlight" src="https://github.com/PierrePedrono/projet-collectif-extension-navigateur-les-foufous-girafarbres/assets/146751236/1c7de2ac-3fb7-4249-a089-9bfce9c10463">
 
 "Ping my tab"  est une extension du navigateur chrome qui indique à son utilisateur qu'il ou elle a ouvert trop d'onglets, en modifiant l'icône d'extension dans la barre d'outils. Ce projet a été développé en tant que project collectif  à  **_Ada Tech School_**.
 
